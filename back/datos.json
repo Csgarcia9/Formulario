@@ -1,0 +1,173 @@
+{
+  "pacientes": [
+    {
+      "id": "paciente-2",
+      "datosPersonales": {
+        "nombre": "Carlos Pérez",
+        "edad": 50
+      },
+      "familiares": [
+        {
+          "nombre": "María López",
+          "parentesco": "Esposa",
+          "edad": 48
+        },
+        {
+          "nombre": "Roberto Pérez",
+          "parentesco": "Hijo",
+          "edad": 20
+        }
+      ],
+      "condicionesPreexistentes": [
+        {
+          "enfermedad": "Hipertensión",
+          "tiempo": "5 años",
+          "detalle": "Controlada con medicación."
+        },
+        {
+          "enfermedad": "Diabetes tipo 2",
+          "tiempo": "2 años",
+          "detalle": "Controlada con dieta y ejercicio."
+        }
+      ],
+      "internamientos": [
+        {
+          "fecha": "2023-01-20",
+          "centroMedico": "Clínica San José",
+          "diagnostico": "Neumonía"
+        },
+        {
+          "fecha": "2023-08-10",
+          "centroMedico": "Hospital regional",
+          "diagnostico": "Apendicitis"
+        }
+      ]
+    },
+    {
+      "id": "paciente-3",
+      "datosPersonales": {
+        "nombre": "Sofia Martinez",
+        "edad": 28
+      },
+      "familiares": [
+        {
+          "nombre": "Luis Martinez",
+          "parentesco": "Hermano",
+          "edad": 25
+        },
+        {
+          "nombre": "Elena Vargas",
+          "parentesco": "Abuela",
+          "edad": 78
+        }
+      ],
+      "condicionesPreexistentes": [
+        {
+          "enfermedad": "Migrañas",
+          "tiempo": "Desde la adolescencia",
+          "detalle": "Episodios frecuentes, controlados con medicación."
+        }
+      ],
+      "internamientos": []
+    },
+    {
+      "id": "paciente-4",
+      "datosPersonales": {
+        "nombre": "Javier Ramirez",
+        "edad": 60
+      },
+      "familiares": [
+        {
+          "nombre": "Patricia Gomez",
+          "parentesco": "Esposa",
+          "edad": 58
+        },
+        {
+          "nombre": "Diego Ramirez",
+          "parentesco": "Hijo",
+          "edad": 30
+        }
+      ],
+      "condicionesPreexistentes": [
+        {
+          "enfermedad": "Artritis",
+          "tiempo": "15 años",
+          "detalle": "Dolor crónico en las articulaciones."
+        },
+        {
+          "enfermedad": "Colesterol alto",
+          "tiempo": "5 años",
+          "detalle": "Controlado con dieta."
+        }
+      ],
+      "internamientos": [
+        {
+          "fecha": "2021-11-05",
+          "centroMedico": "Hospital Universitario",
+          "diagnostico": "Fractura de cadera"
+        }
+      ]
+    },
+    {
+      "id": "paciente-5",
+      "datosPersonales": {
+        "nombre": "Isabel Torres",
+        "edad": 42
+      },
+      "familiares": [
+        {
+          "nombre": "Ricardo Torres",
+          "parentesco": "Esposo",
+          "edad": 45
+        },
+        {
+          "nombre": "Ana Torres",
+          "parentesco": "Hija",
+          "edad": 12
+        }
+      ],
+      "condicionesPreexistentes": [
+        {
+          "enfermedad": "Hipotiroidismo",
+          "tiempo": "8 años",
+          "detalle": "Controlado con medicación diaria."
+        }
+      ],
+      "internamientos": [
+        {
+          "fecha": "2022-06-28",
+          "centroMedico": "Clínica Internacional",
+          "diagnostico": "Colecistitis aguda"
+        }
+      ]
+    },
+    {
+      "id": "paciente-1",
+      "datosPersonales": {
+        "nombre": "Cesar",
+        "edad": "35"
+      },
+      "familiares": [
+        {
+          "nombre": "Maria",
+          "parentesco": "Madre",
+          "edad": "50"
+        }
+      ],
+      "condicionesPreexistentes": [
+        {
+          "enfermedad": "N/A",
+          "tiempo": "N/A",
+          "detalle": "N/A"
+        }
+      ],
+      "internamientos": [
+        {
+          "fecha": "2025-04-09",
+          "centroMedico": "N/A",
+          "diagnostico": "N/A"
+        }
+      ]
+    }
+  ]
+}
