@@ -1,13 +1,14 @@
 {
   "name": "formulario",
   "version": "1.0.0",
-  "type": "module",  
+  "type": "module",
   "main": "back.js",
   "scripts": {
     "start": "node back.js"
   },
   "dependencies": {
-    "express": "^4.21.2",
-    "cors": "^2.8.5"
+    "axios": "^1.8.4",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
   }
 }

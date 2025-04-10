@@ -140,34 +140,6 @@
           "diagnostico": "Colecistitis aguda"
         }
       ]
-    },
-    {
-      "id": "paciente-1",
-      "datosPersonales": {
-        "nombre": "Cesar",
-        "edad": "35"
-      },
-      "familiares": [
-        {
-          "nombre": "Maria",
-          "parentesco": "Madre",
-          "edad": "50"
-        }
-      ],
-      "condicionesPreexistentes": [
-        {
-          "enfermedad": "N/A",
-          "tiempo": "N/A",
-          "detalle": "N/A"
-        }
-      ],
-      "internamientos": [
-        {
-          "fecha": "2025-04-09",
-          "centroMedico": "N/A",
-          "diagnostico": "N/A"
-        }
-      ]
     }
   ]
 }
